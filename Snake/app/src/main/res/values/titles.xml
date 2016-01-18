@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="menu_title">
+        <item name="android:textSize">@dimen/title_extra_large</item>
+        <item name="android:paddingBottom">@dimen/padding_normal</item>
+    </style>
+</resources>

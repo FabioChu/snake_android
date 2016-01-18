@@ -12,5 +12,6 @@
 
     <!--Button-->
     <dimen name="button_menu_width">320dp</dimen>
+    <dimen name="button_menu_corner">4dp</dimen>
 
 </resources>
