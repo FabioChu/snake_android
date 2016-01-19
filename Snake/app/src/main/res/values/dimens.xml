@@ -3,4 +3,15 @@
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="fab_margin">16dp</dimen>
+
+    <!--Titles-->
+    <dimen name="title_extra_large">64dp</dimen>
+
+    <!--Paddings-->
+    <dimen name="padding_normal">16dp</dimen>
+
+    <!--Button-->
+    <dimen name="button_menu_width">320dp</dimen>
+    <dimen name="button_menu_corner">4dp</dimen>
+
 </resources>

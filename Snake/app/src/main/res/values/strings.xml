@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Snake</string>
     <string name="action_settings">Settings</string>
+
+    <!--Menu-->
+    <string name="menu_title">Snake</string>
+    <string name="menu_button_new_game_text">New Game</string>
 </resources>
